@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.local
+src/profiles.db
+src/profiles.db-shm
+src/profiles.db-wal
