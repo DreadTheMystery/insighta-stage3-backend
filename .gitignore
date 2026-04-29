@@ -4,3 +4,5 @@ node_modules/
 src/profiles.db
 src/profiles.db-shm
 src/profiles.db-wal
+.vercel
+.env*.local
